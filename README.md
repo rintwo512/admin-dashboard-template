@@ -13,4 +13,8 @@
 <h1>Plugins</h1>
 
 1.apexcharts-bundle<br>
-2.bootstrap-material-datetimepicker
+2.bootstrap-material-datetimepicker<br>
+3.chartjs<br>
+4.datetimepicker<br>
+5.Drag-And-Drop<br>
+6.fancy-file-uploader<br>
