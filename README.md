@@ -10,7 +10,7 @@
 
 
 
-Plugins
+<h1>Plugins</h1>
 
 
 
