@@ -18,3 +18,12 @@
 4.datetimepicker<br>
 5.Drag-And-Drop<br>
 6.fancy-file-uploader<br>
+7.fullcalendar<br>
+8.highcharts<br>
+9.input-tags<br>
+10.metismenu<br>
+11.perfect-scrollbar<br>
+12select2<br>
+13.simplebar<br>
+14.smart-wizard<br>
+15.vectormap
